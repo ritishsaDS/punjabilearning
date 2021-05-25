@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1019502661236",
+    "project_id": "punjabilearning-c1b20",
+    "storage_bucket": "punjabilearning-c1b20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019502661236:android:e6c9fda46b44b8e44a8b21",
+        "android_client_info": {
+          "package_name": "com.digitlers.flutter_punjabilearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019502661236-v80f4bjer9u543dus78bl9olk5g7rh8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitlers.flutter_punjabilearning",
+            "certificate_hash": "6f3645d70488af35fa8c24e9bb490f88ff0fdfe1"
+          }
+        },
+        {
+          "client_id": "1019502661236-iutb28f1stfldaq2inqgters2rqea5qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEGUGjq7AclRo_gSmFlMeTCdeurFNIQvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019502661236-iutb28f1stfldaq2inqgters2rqea5qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
